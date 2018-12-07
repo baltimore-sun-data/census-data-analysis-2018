@@ -6,7 +6,7 @@ An analysis of data from the 2013-17 American Community Survey (ACS) and the Sma
 
 The code used to produce the analysis is saved in a series of six notebooks.
 
-Each notebook corresponds to a topic in the story. For example, [`04_broadband_acs.ipynb`](http://nbviewer.jupyter.org/github/baltimore-sun-data/census-data-analysis-2018/blob/master/04_broadband_acs.ipynb) refers to the findings in the story under the section in the [story](https://www.baltimoresun.com/news/maryland/bs-md-acs-census-release-20181206-story.html) referring to broadband connectivity, "Maryland rates well nationally for broadband connectivity, but Baltimore and the state's western- and southern-most counties lag."
+Each notebook corresponds to a topic in the story. For example, [`04_broadband_acs.ipynb`](http://nbviewer.jupyter.org/github/baltimore-sun-data/census-data-analysis-2018/blob/master/04_broadband_acs.ipynb) refers to the findings under the section referring to broadband connectivity, "Maryland rates well nationally for broadband connectivity, but Baltimore and the state's western- and southern-most counties lag."
 
 We used [`tidycensus`](https://walkerke.github.io/tidycensus/index.html) by Kyle Walker and [`censusapi`](https://hrecht.github.io/censusapi/index.html) by Hannah Recht to access the Census Bureau API in `R`.
 
