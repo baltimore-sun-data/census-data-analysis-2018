@@ -12,6 +12,8 @@ We used [`tidycensus`](https://walkerke.github.io/tidycensus/index.html) by Kyle
 
 https://twitter.com/baltsundata
 
+![](output/screenshot.png)
+
 ## Community Contributions
 
 There are many angles to explore with this data.
