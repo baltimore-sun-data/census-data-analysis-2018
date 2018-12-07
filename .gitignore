@@ -1,4 +1,6 @@
 *.ipynb_checkpoints
 output/*.zip
 output/*.eps
+*/*.DS_Store
+*.DS_Store
 
