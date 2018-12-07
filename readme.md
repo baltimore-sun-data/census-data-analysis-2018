@@ -18,7 +18,7 @@ https://twitter.com/baltsundata
 
 There are many angles to explore with this data.
 
-**Have something to contribute?** Send us a [pull request](https://baltimore-sun-data/census-data-analysis-2018/pulls) or contact us on Twitter [@baltsundata](https://twitter.com/baltsundata) or via [email](mailto:czhang@baltsun.com)
+**Have something to contribute?** Send us a [pull request](https://github.com/baltimore-sun-data/census-data-analysis-2018/pulls) or contact us on Twitter [@baltsundata](https://twitter.com/baltsundata) or via [email](mailto:czhang@baltsun.com)
 
 You can also fork a copy of this repo to your own account.
 
