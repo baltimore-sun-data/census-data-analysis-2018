@@ -12,7 +12,7 @@ We used [`tidycensus`](https://walkerke.github.io/tidycensus/index.html) by Kyle
 
 https://twitter.com/baltsundata
 
-![][(output/screenshot.png)](https://baltsun.carto.com/builder/4c4b537c-e119-4f4e-963c-ad7ef54388da/embed)
+[![](output/screenshot.png)](https://baltsun.carto.com/builder/4c4b537c-e119-4f4e-963c-ad7ef54388da/embed)
 
 ## Community Contributions
 
