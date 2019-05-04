@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrcartoonster/census-data-analysis-2018/master?urlpath=lab/tree/index.ipynb)
 # Census data analysis: ACS and SAIPE
 
 By [Christine Zhang](mailto:czhang@baltsun.com)
